@@ -4,6 +4,6 @@ Tools for the representation of graphs and flowcharts
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/Shinmera/flow.git |
-| commit  | 6d925af                                  |
+| commit  | a426c87                                  |
 | systems | flow                                     |
 |---------+------------------------------------------|
