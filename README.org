@@ -6,4 +6,4 @@ Tools for the representation of graphs and flowcharts
 | source  | git:https://codeberg.org/shinmera/flow.git |
 | commit  | 860cb70                                  |
 | systems | flow                                     |
-|---------+------------------------------------------|
+|---------+------------------------------------------| 
